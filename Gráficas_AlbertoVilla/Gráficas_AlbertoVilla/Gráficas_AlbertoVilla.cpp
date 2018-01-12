@@ -126,7 +126,7 @@ int main()
 		}
 		else
 		{
-			cout << "No se encontro el archivo " << sIn << ".\n";
+			cout << "No se encontro el archivo " << sFileName << ".\n";
 			system("pause");
 		}
 
